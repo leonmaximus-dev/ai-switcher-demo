@@ -8,6 +8,10 @@ AI Switcher 展示一种更方便的多应用账号管理体验：顶部选择 C
 
 > **当前版本是 UI 演示版。** 16 个应用都有可操作的界面，账号、套餐、额度和切换过程使用示例数据。点击“切换账号”会改变演示页面中的当前账号，不会切换真实软件的登录状态。
 
+[下载离线演示](https://github.com/leonmaximus-dev/ai-switcher-demo/releases/download/v0.5.0-demo.2/AI-Switcher-Demo.html) · [查看版本发布](https://github.com/leonmaximus-dev/ai-switcher-demo/releases/tag/v0.5.0-demo.2)
+
+下载 HTML 后双击打开即可体验，无需安装 Node.js。
+
 ![AI Switcher 浅色界面](docs/images/demo-light.png)
 
 ## 现在能做什么
