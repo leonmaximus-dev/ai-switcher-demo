@@ -1,0 +1,26 @@
+name: 打包离线演示
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run demo:export
+      - run: npx playwright install --with-deps chromium
+      - run: npm run demo:verify
+      - run: npm run source:export
+      - uses: actions/upload-artifact@v4
+        with:
+          name: AI-Switcher-发布包
+          path: |
+            demo-release/
+            source-release/

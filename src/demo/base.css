@@ -1,0 +1,15 @@
+@import "tailwindcss" source(none);
+@source "./";
+
+:root { font-family: "Segoe UI Variable", "Segoe UI", "Microsoft YaHei", sans-serif; font-synthesis: none; color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input, select { font: inherit; }
+button { display: inline-flex; align-items: center; justify-content: center; gap: 7px; min-height: 34px; padding: 7px 12px; border: 1px solid; border-radius: 8px; color: inherit; font-size: 12px; line-height: 1.4; cursor: pointer; }
+button:active:not(:disabled) { transform: translateY(1px); }
+button:disabled { opacity: .5; cursor: default; }
+footer { display: flex; justify-content: space-between; gap: 16px; }
+h1, h2, h3, p { text-wrap: pretty; }
+h1 { margin: 0; font-size: 22px; font-weight: 650; letter-spacing: -.6px; }
+h2 { margin: 0; font-size: 16px; font-weight: 600; }

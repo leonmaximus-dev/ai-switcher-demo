@@ -1,0 +1,95 @@
+[
+  {
+    "id": "qoder",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/qoder.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "codex",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "claude",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "cursor",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cursor.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "antigravity",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "windsurf",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/windsurf.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "copilot",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/githubcopilot.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "qwen",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/qwen-color.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "gemini",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "trae",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/trae-color.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "opencode",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/opencode.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "kimi",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "codebuddy",
+    "source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codebuddy-color.svg",
+    "library": "Lobe Icons",
+    "license": "MIT"
+  },
+  {
+    "id": "zcode",
+    "source": "https://zcode.z.ai/favicon-192x192.png?v=20260707-transparent",
+    "library": "官方网站"
+  },
+  {
+    "id": "factory",
+    "source": "https://factory.ai/favicon.svg",
+    "library": "官方网站"
+  },
+  {
+    "id": "typeless",
+    "source": "https://www.typeless.com/logo_152.png",
+    "library": "官方网站"
+  }
+]
